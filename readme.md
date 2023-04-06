@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="#">
-    <img height=140 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AoGnyan&show_icons=true&theme=synthwave&count_private=true&hide_border=true"/>
+    <img height=165 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AoGnyan&show_icons=true&theme=synthwave&count_private=true&hide_border=true"/>
   </a>
   <a href="#">
     <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AoGnyan&layout=compact&card_width=100&langs_count=8&count_private=false&theme=radical&hide_border=true"/>
